@@ -1,0 +1,13 @@
+Module-2: GIT Assignment-1
+
+git init
+git add CODE.txt output.txt
+git commit -m "adding files"
+git branch -M master
+git remote add origin https://github.com/sj1506/git-module-asignments.git
+git push -u orgin master
+git push -u origin master
+
+
+GIT Assinmnet-2
+
